@@ -1,16 +1,45 @@
-## Hi there 👋
+## Deepika Bartwal
 
-<!--
-**deepikabartwal/deepikabartwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 6+ years of experience building scalable backend systems, data platforms, and workflow-driven applications.  
+Experienced in designing reliable services, handling large-scale data processing, and implementing clean, maintainable architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Summary
+Backend-focused software engineer with strong experience in system design, data pipelines, and workflow orchestration.  
+Proven ability to work on production systems handling millions of records, optimize performance, and build extensible platforms.  
+Comfortable collaborating across teams and working in fast-paced, distributed environments.
+
+---
+
+### Core Skills
+- **Languages:** Go, Java, Scala, Python  
+- **Backend & Systems:** REST APIs, Microservices, Workflow Engines  
+- **Data & Storage:** SQL, Elasticsearch, ETL (full and incremental)  
+- **Architecture:** Scalable system design, modular abstractions  
+- **DevOps & Tooling:** Docker, CI/CD, Git, Linux  
+
+---
+
+### Experience Highlights
+- Designed and implemented backend services used in production environments  
+- Built and maintained workflow-based systems with conditional and chained execution  
+- Worked on large-scale data processing, including multi-million record updates  
+- Implemented role-based approvals and automation workflows  
+- Improved system reliability, performance, and maintainability through clean code practices  
+
+---
+
+### Areas of Focus
+- Backend and platform engineering  
+- Distributed systems and workflow orchestration  
+- Data-intensive applications  
+- Performance optimization and scalability  
+
+---
+
+
+### Contact
+- GitHub: https://github.com/deepikabartwal  
+- Email: bartwaldeepika1407@gmail.com  
+- LinkedIn: 
