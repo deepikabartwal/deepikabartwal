@@ -98,8 +98,8 @@ Right now I'm on a deliberate path into full-stack development and AI engineerin
 ## My journey
 
 ```
-2018 – 2019   Auth integration across microservices · production support
-2019 – 2021   User migration · access control rules · incremental & parallel ETL pipelines
+2019 – 2020   Auth integration across microservices · production support
+2020 – 2021   User migration · access control rules · incremental & parallel ETL pipelines
 2021 – 2022   Record lifecycle management · data deletion workflows at scale
 2022 – 2024   Data engineering · Spark/Scala optimization · migrated jobs to new data flows
               Integrated with upstream data lake · introduced new source-reading patterns
