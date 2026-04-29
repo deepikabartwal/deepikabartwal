@@ -48,6 +48,7 @@ Right now I'm on a deliberate path into full-stack development and AI engineerin
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat&logo=temporal&logoColor=white)
 
 **Infrastructure & tools:**
 
@@ -97,12 +98,14 @@ Right now I'm on a deliberate path into full-stack development and AI engineerin
 ## My journey
 
 ```
-Year 1       Integrated auth modules across microservices · production support
-Year 2–3     User migration · access control rules · incremental & parallel ETL pipelines
-Year 3–4     Record lifecycle management · data deletion workflows at scale
-Year 4–6     Data engineering · Spark/Scala optimization · migrated jobs to new data flows
-             Integrated with upstream data lake · introduced new source-reading patterns
-2024 – now   Expanding into full-stack + AI/Data (React, TypeScript, Python/LLMs)
+2018 – 2019   Auth integration across microservices · production support
+2019 – 2021   User migration · access control rules · incremental & parallel ETL pipelines
+2021 – 2022   Record lifecycle management · data deletion workflows at scale
+2022 – 2024   Data engineering · Spark/Scala optimization · migrated jobs to new data flows
+              Integrated with upstream data lake · introduced new source-reading patterns
+Sep 2024 –    Workflow orchestration with Temporal + Go · building a visual journey builder
+now           with React Flow · automating complex multi-step user communication flows
+              Also learning: React · TypeScript · Python/LLMs
 ```
 
 ---
