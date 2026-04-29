@@ -38,7 +38,6 @@ Right now I'm on a deliberate path into full-stack development and AI engineerin
 **Strong:**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -53,6 +52,8 @@ Right now I'm on a deliberate path into full-stack development and AI engineerin
 **Infrastructure & tools:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -85,20 +86,23 @@ Right now I'm on a deliberate path into full-stack development and AI engineerin
 
 ## Experience highlights
 
-- Built and maintained **workflow engines** with conditional branching, chained execution, and role-based approvals
-- Designed **ETL pipelines** processing millions of records with full and incremental load strategies
-- Delivered **REST APIs and microservices** used in production at scale
-- Improved **performance and reliability** through query optimization, refactoring, and clean architecture practices
-- Collaborated across teams in fast-paced, distributed environments
+- Integrated **authentication modules** across microservices early in my career — got deep into auth flows and service-to-service trust
+- Led **user migration and access control** work — introduced new RBAC rules across a live system without downtime
+- Built **incremental and parallel ETL pipelines** handling multi-million record datasets with reliability and restartability
+- Designed **record deletion workflows** that respected data dependencies and compliance constraints at scale
+- Moved into **data engineering** — optimized and migrated Spark/Scala jobs to new pipeline architectures, integrated with upstream data lakes, and introduced cleaner source-reading abstractions
 
 ---
 
 ## My journey
 
 ```
-2018 – 2022   Backend APIs, microservices (Java, Scala)
-2022 – 2024   Distributed systems, data pipelines, workflow engines (Go, Scala, Python)
-2024 – now    Full-stack + AI/Data (React, TypeScript, Python/LLMs)
+Year 1       Integrated auth modules across microservices · production support
+Year 2–3     User migration · access control rules · incremental & parallel ETL pipelines
+Year 3–4     Record lifecycle management · data deletion workflows at scale
+Year 4–6     Data engineering · Spark/Scala optimization · migrated jobs to new data flows
+             Integrated with upstream data lake · introduced new source-reading patterns
+2024 – now   Expanding into full-stack + AI/Data (React, TypeScript, Python/LLMs)
 ```
 
 ---
